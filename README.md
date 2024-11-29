@@ -6,14 +6,10 @@
 
 💻 I have experience with HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Bootstrap, and ASP.NET.
 
-💞️ I’m looking to collaborate on web development projects, especially those focused on frontend development and user experiences.
+🚀 I’m currently learning and working with the MERN stack (MongoDB, Express.js, ReactJS, Node.js) to enhance my full-stack development skills.
+
+💞️ I’m looking to collaborate on web development projects, especially those focused on frontend development, user experiences, and full-stack applications.
 
 📫 How to reach me: naimaahmedin@gmail.com
 
 😄 Pronouns: she/her
-  
-
-<!---
-NaimaAhmedin/NaimaAhmedin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
